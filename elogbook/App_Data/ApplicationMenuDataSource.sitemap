@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+	<siteMapNode url="javascript:void(0);">
+		<siteMapNode url="Default.aspx" title="Home">
+		</siteMapNode>
+		<!--<siteMapNode url="GridView.aspx" title="GridView">
+		</siteMapNode>-->
+		<!--<siteMapNode url="Article.aspx" title="Article">
+		</siteMapNode>-->
+		<siteMapNode url="" title="Faculty">
+			<siteMapNode url="Controls/Faculty/Schools.aspx" title="Schools">
+			</siteMapNode>
+			<siteMapNode url="Controls/Faculty/Departments.aspx" title="Departments">
+			</siteMapNode>
+			<siteMapNode url="Controls/Faculty/Centres.aspx" title="Centres">
+			</siteMapNode>
+			<siteMapNode url="Controls/Admin/Hospitals.aspx" title="Practicum Sites">
+			</siteMapNode>
+			<siteMapNode url="Controls/Faculty/Programs.aspx" title="Programs">
+			</siteMapNode>
+			<siteMapNode url="Controls/Faculty/Staff.aspx" title="Staff">
+			</siteMapNode>
+			<siteMapNode url="Controls/Faculty/StaffTypes.aspx" title="StaffTypes">
+			</siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="Students">
+			<siteMapNode url="Controls/Students/AddStudents.aspx" title="Add Students">
+			</siteMapNode>
+			<siteMapNode url="Controls/Students/RegisterStudents.aspx" title="Register Existing Students">
+			</siteMapNode>
+			<siteMapNode url="Controls/Students/ProgramRegister.aspx" title="Program Register">
+			</siteMapNode>
+
+		</siteMapNode>
+		<siteMapNode url="" title="Elogbooks">
+			<siteMapNode url="Controls/Elogbooks/Elogbooks.aspx" title="Elogbooks">
+			</siteMapNode>
+			<siteMapNode url="Controls/Elogbooks/Sections.aspx" title="Sections">
+			</siteMapNode>
+			<siteMapNode url="Controls/Elogbooks/Competencies.aspx" title="Competencies">
+			</siteMapNode>
+			<!--<siteMapNode url="Controls/Elogbooks/Questions.aspx" title="Questions">
+			</siteMapNode>-->
+			<siteMapNode url="Controls/Elogbooks/Questionsv2.aspx" title="Questions">
+			</siteMapNode>
+			<siteMapNode url="Controls/Elogbooks/AnalysisCategories.aspx" title="Analysis Categories">
+			</siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="Assignments">
+			<siteMapNode url="Controls/Assignments/Assignments.aspx" title="Assignments">
+			</siteMapNode>
+			<siteMapNode url="Controls/Assignments/Submissions.aspx" title="Submissions">
+			</siteMapNode>
+			<siteMapNode url="Controls/Assignments/Grades.aspx" title="Grades">
+			</siteMapNode>
+			
+		</siteMapNode>
+		<siteMapNode url="" title="My Pages">
+			<siteMapNode url="Controls/Assignments/CreateSubmission.aspx" title="Create Submission">
+			</siteMapNode>
+			<siteMapNode url="Controls/Assignments/RecordCase.aspx" title="Record Case">
+			</siteMapNode>
+			<siteMapNode url="Controls/MyPages/MySubmissions.aspx" title="My Submissions">
+			</siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="" title="Reports">
+			<siteMapNode url="Controls/Reports/PivotSummary.aspx" title="Cases Pivot">
+			</siteMapNode>
+			<siteMapNode url="Controls/Reports/achievementspivot.aspx" title="Achievements Pivot">
+			</siteMapNode>
+			<siteMapNode url="Controls/Reports/achievementslist.aspx" title="Achievements List">
+			</siteMapNode>
+			<siteMapNode url="Controls/Reports/buildachievementsretroactively.aspx" title="Build Achievements Retroactively">
+			</siteMapNode>
+			<siteMapNode url="Controls/Assignments/ReportBuilder.aspx" title="Report Builder">
+			</siteMapNode>
+			
+		</siteMapNode>
+		<siteMapNode url="" title="Admin">
+			<siteMapNode url="Institution.aspx" title="Institution">
+			</siteMapNode>
+			<siteMapNode url="Roles.aspx" title="Roles">
+			</siteMapNode>
+			<siteMapNode url="Users.aspx" title="Users">
+			</siteMapNode>
+			
+			<!--<siteMapNode url="Controls/Admin/Mentors.aspx" title="Mentors">
+			</siteMapNode>-->
+		</siteMapNode>
+		<!--<siteMapNode url="Scheduler.aspx" title="Scheduler">
+		</siteMapNode>-->
+	</siteMapNode>
+</siteMap>
